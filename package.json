@@ -5,7 +5,7 @@
   "bin": {
     "greet": "./bin/greet.js"
   },
-  "main": "lib/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "mocha"
   },
