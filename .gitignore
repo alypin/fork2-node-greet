@@ -1,0 +1,3 @@
+#ignore the compiled JavaScript files in lib
+lib
+node_modules
